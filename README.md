@@ -1,4 +1,4 @@
-# LUke’s CodIng school For nEuRopsychology (LUCIFER)
+# pYthon cODing for nEuropsychoLogy (YODEL)
 
 This is an informal repo for sharing python code to help with basic tasks that could be automated using Python (Numpy and Pandas mostly).
 
